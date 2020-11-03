@@ -1,0 +1,228 @@
+0.000 ID= 1      Ask     
+0.000 ID= 3      Ask     
+0.000 ID= 0 Q= 1 Work         4
+0.001 ID= 2      Ask     
+0.007 ID= 0 Q= 2 Work         2
+0.013 ID= 0 Q= 3 Work         1
+0.018 ID= 0 Q= 4 Work         1
+0.023 ID= 0      Sleep        9
+0.023 ID= 3 Q= 3 Receive      4
+0.023 ID= 3      Complete     4
+0.023 ID= 3      Ask     
+0.023 ID= 3 Q= 2 Receive      2
+0.023 ID= 3      Complete     2
+0.023 ID= 3      Ask     
+0.023 ID= 1 Q= 1 Receive      1
+0.023 ID= 1      Complete     1
+0.023 ID= 1      Ask     
+0.023 ID= 2 Q= 0 Receive      1
+0.023 ID= 2      Complete     1
+0.023 ID= 2      Ask     
+0.023 ID= 0 Q= 1 Work         5
+0.032 ID= 0      Sleep        1
+0.032 ID= 3 Q= 0 Receive      5
+0.032 ID= 3      Complete     5
+0.032 ID= 3      Ask     
+0.032 ID= 0 Q= 1 Work         1
+0.040 ID= 0 Q= 2 Work         1
+0.046 ID= 0 Q= 3 Work         1
+0.052 ID= 1 Q= 2 Receive      1
+0.052 ID= 1      Complete     1
+0.052 ID= 1      Ask     
+0.052 ID= 2 Q= 1 Receive      1
+0.052 ID= 2      Complete     1
+0.052 ID= 2      Ask     
+0.053 ID= 3 Q= 0 Receive      1
+0.053 ID= 3      Complete     1
+0.053 ID= 3      Ask     
+0.052 ID= 0      End     
+0.000 ID= 3      Ask     
+0.000 ID= 1      Ask     
+0.000 ID= 0 Q= 1 Work         4
+0.000 ID= 2      Ask     
+0.007 ID= 0 Q= 2 Work         2
+0.013 ID= 0 Q= 3 Work         1
+0.018 ID= 0 Q= 4 Work         1
+0.023 ID= 0      Sleep        9
+0.023 ID= 1 Q= 3 Receive      4
+0.023 ID= 1      Complete     4
+0.023 ID= 1      Ask     
+0.023 ID= 1 Q= 2 Receive      2
+0.023 ID= 1      Complete     2
+0.023 ID= 1      Ask     
+0.023 ID= 3 Q= 1 Receive      1
+0.023 ID= 3      Complete     1
+0.023 ID= 3      Ask     
+0.023 ID= 2 Q= 0 Receive      1
+0.023 ID= 2      Complete     1
+0.023 ID= 2      Ask     
+0.023 ID= 0 Q= 1 Work         5
+0.034 ID= 0      Sleep        1
+0.034 ID= 1 Q= 0 Receive      5
+0.034 ID= 1      Complete     5
+0.034 ID= 1      Ask     
+0.034 ID= 0 Q= 1 Work         1
+0.043 ID= 0 Q= 2 Work         1
+0.049 ID= 0 Q= 3 Work         1
+0.055 ID= 3 Q= 2 Receive      1
+0.055 ID= 3      Complete     1
+0.055 ID= 3      Ask     
+0.055 ID= 2 Q= 1 Receive      1
+0.055 ID= 2      Complete     1
+0.055 ID= 2      Ask     
+0.055 ID= 1 Q= 0 Receive      1
+0.055 ID= 1      Complete     1
+0.055 ID= 1      Ask     
+0.055 ID= 0      End     
+0.000 ID= 1      Ask     
+0.000 ID= 2      Ask     
+0.001 ID= 0 Q= 1 Work         4
+0.001 ID= 3      Ask     
+0.006 ID= 0 Q= 2 Work         2
+0.011 ID= 0 Q= 3 Work         1
+0.016 ID= 0 Q= 4 Work         1
+0.021 ID= 0      Sleep        9
+0.021 ID= 2 Q= 3 Receive      4
+0.021 ID= 2      Complete     4
+0.021 ID= 2      Ask     
+0.021 ID= 1 Q= 2 Receive      2
+0.021 ID= 1      Complete     2
+0.021 ID= 1      Ask     
+0.022 ID= 3 Q= 1 Receive      1
+0.022 ID= 3      Complete     1
+0.022 ID= 3      Ask     
+0.022 ID= 2 Q= 0 Receive      1
+0.022 ID= 2      Complete     1
+0.022 ID= 2      Ask     
+0.022 ID= 0 Q= 1 Work         5
+0.043 ID= 0      Sleep        1
+0.043 ID= 1 Q= 0 Receive      5
+0.043 ID= 1      Complete     5
+0.043 ID= 1      Ask     
+0.044 ID= 0 Q= 1 Work         1
+0.053 ID= 0 Q= 2 Work         1
+0.059 ID= 0 Q= 2 Work         1
+0.059 ID= 2 Q= 2 Receive      1
+0.059 ID= 2      Complete     1
+0.059 ID= 2      Ask     
+0.059 ID= 3 Q= 1 Receive      1
+0.059 ID= 3      Complete     1
+0.059 ID= 3      Ask     
+0.066 ID= 1 Q= 0 Receive      1
+0.066 ID= 1      Complete     1
+0.066 ID= 1      Ask     
+0.066 ID= 0      End     
+0.000 ID= 0 Q= 1 Work         4
+0.001 ID= 1      Ask     
+0.001 ID= 3      Ask     
+0.001 ID= 2      Ask     
+0.006 ID= 0 Q= 2 Work         2
+0.011 ID= 0 Q= 3 Work         1
+0.016 ID= 0 Q= 4 Work         1
+0.020 ID= 0      Sleep        9
+0.020 ID= 3 Q= 3 Receive      4
+0.021 ID= 3      Complete     4
+0.021 ID= 3      Ask     
+0.021 ID= 3 Q= 2 Receive      2
+0.021 ID= 3      Complete     2
+0.021 ID= 3      Ask     
+0.021 ID= 1 Q= 1 Receive      1
+0.021 ID= 1      Complete     1
+0.021 ID= 1      Ask     
+0.021 ID= 2 Q= 0 Receive      1
+0.021 ID= 2      Complete     1
+0.021 ID= 2      Ask     
+0.021 ID= 0 Q= 1 Work         5
+0.043 ID= 0      Sleep        1
+0.043 ID= 3 Q= 0 Receive      5
+0.043 ID= 3      Complete     5
+0.043 ID= 3      Ask     
+0.043 ID= 0 Q= 1 Work         1
+0.052 ID= 0 Q= 2 Work         1
+0.058 ID= 0 Q= 3 Work         1
+0.064 ID= 1 Q= 2 Receive      1
+0.064 ID= 1      Complete     1
+0.064 ID= 1      Ask     
+0.064 ID= 2 Q= 1 Receive      1
+0.064 ID= 2      Complete     1
+0.064 ID= 3 Q= 0 Receive      1
+0.064 ID= 2      Ask     
+0.064 ID= 3      Complete     1
+0.064 ID= 3      Ask     
+0.064 ID= 0      End     
+0.000 ID= 0 Q= 1 Work         4
+0.000 ID= 1      Ask     
+0.000 ID= 3      Ask     
+0.000 ID= 2      Ask     
+0.007 ID= 0 Q= 2 Work         2
+0.013 ID= 0 Q= 3 Work         1
+0.019 ID= 0 Q= 4 Work         1
+0.025 ID= 0      Sleep        9
+0.025 ID= 3 Q= 3 Receive      4
+0.025 ID= 3      Complete     4
+0.025 ID= 3      Ask     
+0.025 ID= 3 Q= 2 Receive      2
+0.025 ID= 3      Complete     2
+0.025 ID= 3      Ask     
+0.025 ID= 1 Q= 1 Receive      1
+0.025 ID= 1      Complete     1
+0.025 ID= 1      Ask     
+0.025 ID= 2 Q= 0 Receive      1
+0.025 ID= 2      Complete     1
+0.025 ID= 2      Ask     
+0.025 ID= 0 Q= 1 Work         5
+0.046 ID= 0      Sleep        1
+0.047 ID= 3 Q= 0 Receive      5
+0.047 ID= 3      Complete     5
+0.047 ID= 3      Ask     
+0.047 ID= 0 Q= 1 Work         1
+0.054 ID= 0 Q= 2 Work         1
+0.062 ID= 0 Q= 3 Work         1
+0.070 ID= 1 Q= 2 Receive      1
+0.070 ID= 1      Complete     1
+0.070 ID= 1      Ask     
+0.070 ID= 2 Q= 1 Receive      1
+0.070 ID= 2      Complete     1
+0.070 ID= 2      Ask     
+0.070 ID= 3 Q= 0 Receive      1
+0.070 ID= 3      Complete     1
+0.070 ID= 3      Ask     
+0.070 ID= 0      End     
+0.000 ID= 0 Q= 1 Work         4
+0.000 ID= 1      Ask     
+0.000 ID= 3      Ask     
+0.000 ID= 2      Ask     
+0.006 ID= 0 Q= 2 Work         2
+0.012 ID= 0 Q= 3 Work         1
+0.017 ID= 0 Q= 4 Work         1
+0.022 ID= 0      Sleep        9
+0.022 ID= 3 Q= 3 Receive      4
+0.022 ID= 3      Complete     4
+0.022 ID= 3      Ask     
+0.022 ID= 3 Q= 2 Receive      2
+0.022 ID= 3      Complete     2
+0.022 ID= 3      Ask     
+0.022 ID= 1 Q= 1 Receive      1
+0.022 ID= 1      Complete     1
+0.022 ID= 1      Ask     
+0.022 ID= 2 Q= 0 Receive      1
+0.022 ID= 2      Complete     1
+0.022 ID= 2      Ask     
+0.022 ID= 0 Q= 1 Work         5
+0.044 ID= 0      Sleep        1
+0.044 ID= 3 Q= 0 Receive      5
+0.044 ID= 3      Complete     5
+0.044 ID= 3      Ask     
+0.044 ID= 0 Q= 1 Work         1
+0.054 ID= 0 Q= 2 Work         1
+0.060 ID= 0 Q= 3 Work         1
+0.066 ID= 1 Q= 2 Receive      1
+0.066 ID= 1      Complete     1
+0.066 ID= 1      Ask     
+0.066 ID= 2 Q= 1 Receive      1
+0.066 ID= 2      Complete     1
+0.066 ID= 3 Q= 0 Receive      1
+0.066 ID= 2      Ask     
+0.066 ID= 3      Complete     1
+0.066 ID= 3      Ask     
+0.066 ID= 0      End     

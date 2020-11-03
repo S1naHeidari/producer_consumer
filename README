@@ -1,0 +1,12 @@
+1. Open your terminal
+
+2. chmod +x ./script.sh
+
+3. To use prodcon command in your terminal session, enter: 
+source ./script.sh
+now you can test it by entering:
+prodcon 3 1
+prodcon 3 2
+in the terminal
+
+4. You can get executables for optimization option (-O) with "make" command. Also for debug option (-g) enter: "make debug"
